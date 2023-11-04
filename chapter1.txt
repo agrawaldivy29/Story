@@ -1,4 +1,1 @@
 This is the chapter 1.
-Alien Plot
-Making some changes to understand git again
-Making some changes to main branch to try to revert back to previous commit. Hopefully this statement won't exist.
